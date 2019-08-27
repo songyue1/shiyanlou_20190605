@@ -16,8 +16,13 @@
       <file leaf-file-name="test1.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/order/test1.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="168">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+=======
             <state relative-caret-position="147">
               <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+>>>>>>> master
             </state>
           </provider>
         </entry>
@@ -105,11 +110,20 @@
       <option name="presentableId" value="Default" />
       <updated>1566906014587</updated>
       <workItem from="1566906018747" duration="291000" />
+      <workItem from="1566906333776" duration="234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="393000" />
+=======
+    <option name="totallyTimeSpent" value="165000" />
+>>>>>>> master
+=======
     <option name="totallyTimeSpent" value="234000" />
+>>>>>>> master
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -130,8 +144,14 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+<<<<<<< HEAD
+=======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+<<<<<<< HEAD
+>>>>>>> master
+=======
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+>>>>>>> master
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -147,6 +167,9 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32931036" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -169,6 +192,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/order/test1.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="168">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+=======
         <state relative-caret-position="147">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
@@ -186,6 +213,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+>>>>>>> master
         </state>
       </provider>
     </entry>
